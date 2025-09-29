@@ -4,6 +4,8 @@ description: ''
 file: /courses/2-71-optics-spring-2009/53d0fbdfee86cb33ad9480b495ed9113_IpFIp68ODNI.srt
 file_size: 68201
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

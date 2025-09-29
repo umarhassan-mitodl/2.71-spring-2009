@@ -4,6 +4,8 @@ description: Thumbnail image accompanying a video lecture.
 file: /courses/2-71-optics-spring-2009/20184ea847ac00c082c805f3a948ea33_MIT2_71S09lec11_th.jpg
 file_size: 4727
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

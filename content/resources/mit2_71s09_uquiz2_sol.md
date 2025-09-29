@@ -5,6 +5,8 @@ description: Solutions to a quiz on optics, interference, and spatial filtering.
 file: /courses/2-71-optics-spring-2009/d6fe3ef027f822d1b7322bc07c506c50_MIT2_71S09_uquiz2_sol.pdf
 file_size: 424516
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

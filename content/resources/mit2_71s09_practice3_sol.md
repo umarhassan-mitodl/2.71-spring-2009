@@ -4,6 +4,8 @@ description: Solutions to a practice exam on optics.
 file: /courses/2-71-optics-spring-2009/1c43e86ed3d0cd95e565a984b718fe58_MIT2_71S09_practice3_sol.pdf
 file_size: 1611700
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

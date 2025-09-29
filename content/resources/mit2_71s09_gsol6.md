@@ -4,6 +4,8 @@ description: This resource contains solutions for the problem set 6.
 file: /courses/2-71-optics-spring-2009/41079a8a72cdf95748d07f102217acb5_MIT2_71S09_gsol6.pdf
 file_size: 1130617
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

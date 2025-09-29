@@ -6,6 +6,8 @@ description: Quiz on optics, eye correction, and aperture and field stops in a t
 file: /courses/2-71-optics-spring-2009/707c970121c568535415e7906f6bf31c_MIT2_71S09_gquiz1.pdf
 file_size: 82085
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

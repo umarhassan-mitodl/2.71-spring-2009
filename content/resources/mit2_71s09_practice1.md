@@ -4,6 +4,8 @@ description: Practice exam on optics.
 file: /courses/2-71-optics-spring-2009/97775347ef8f54cfbdac3ad9459d867f_MIT2_71S09_practice1.pdf
 file_size: 242365
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

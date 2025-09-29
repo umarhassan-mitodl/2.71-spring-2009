@@ -5,6 +5,8 @@ description: "Lecture supplement on binary amplitude grating, arbitrary duty cyc
 file: /courses/2-71-optics-spring-2009/4a3ef44d2f4e088396377a7679950f00_MIT2_71S09_supp19.pdf
 file_size: 315878
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

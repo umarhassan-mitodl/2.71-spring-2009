@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   collaboration, late policy, homework and quiz exemptions, the final exam, grading
   policies, required texts, and recommended texts.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -134,7 +136,7 @@ Each problem is worth 3 points; you earn
 
 ### Term Grades
 
-We do **not** grade on a curve; we use the {{% resource_link "93c332c8-6c80-4a3e-aaea-b4004512b269" "Institute grade definitions" %}}.
+We do **not** grade on a curve; we use the [Institute grade definitions](http://web.mit.edu/academic-guide/section_06.html).
 
 Required Texts
 --------------

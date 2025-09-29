@@ -5,6 +5,8 @@ draft: false
 file: /courses/2-71-optics-spring-2009/mit2_71s09_lec11_new.pdf
 file_size: 770644
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
