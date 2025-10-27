@@ -6,8 +6,6 @@ description: Solutions to a quiz on optics, eye correction, and aperture and fie
 file: /courses/2-71-optics-spring-2009/1ffaab477cb3cd33439a95143e41cd4d_MIT2_71S09_gquiz1_sol.pdf
 file_size: 692266
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

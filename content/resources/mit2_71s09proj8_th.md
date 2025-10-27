@@ -4,8 +4,6 @@ description: Thumbnail image accompanying a student project video.
 file: /courses/2-71-optics-spring-2009/6afbeb48c2a3dd45a37ed6aca17babfc_MIT2_71S09proj8_th.jpg
 file_size: 4790
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

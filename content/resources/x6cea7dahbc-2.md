@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-71-optics-spring-2009/2de77698e35c5e4495fc3495c552c756_X6cea7dAhBc.vtt
 file_size: 127160
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: Lecture supplement on derivation of lens Fourier transforming prope
 file: /courses/2-71-optics-spring-2009/c2607abf61801041cf77649c70c05aa0_MIT2_71S09_supp18.pdf
 file_size: 131283
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

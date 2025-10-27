@@ -5,8 +5,6 @@ description: This resource contains information about the solutions for problem 
 file: /courses/2-71-optics-spring-2009/cccec858e2885efcddc225f264f58530_MIT2_71S09_gsol1.pdf
 file_size: 270703
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

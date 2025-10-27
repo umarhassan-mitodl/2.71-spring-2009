@@ -4,8 +4,6 @@ description: Quiz for graduate students on optics, interference, and spatial fil
 file: /courses/2-71-optics-spring-2009/e3a514badd795a48f5125b386fd59b2c_MIT2_71S09_gquiz2.pdf
 file_size: 130736
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

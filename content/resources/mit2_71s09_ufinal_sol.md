@@ -5,8 +5,6 @@ description: Solutions to a final exam on optics. This version of the exam is in
 file: /courses/2-71-optics-spring-2009/facb239c192a437706a6e52a719ad8b0_MIT2_71S09_ufinal_sol.pdf
 file_size: 687333
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
